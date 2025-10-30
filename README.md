@@ -36,7 +36,7 @@ def fix_encoding(text):
   | **Título** | Título da notícia |
   | **Link** | Link da notícia |
   | **Data** | Data de publicação da notícia (opcional) |
-  | **Descrição** | Descrição d notícia (opcional) |
+  | **Descrição** | Descrição da notícia (opcional) |
 
 
 ```bash
