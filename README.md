@@ -1,4 +1,4 @@
-<h1 align="center">🌱 Análise das Emissões de Carbono na Indústria Agrícola 🌍</h1>
+<h1 align="center">🌱 Análise das Emissões de Carbono 🌍</h1>
 
 ---
 
